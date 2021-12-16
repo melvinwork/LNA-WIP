@@ -1,0 +1,4 @@
+https://www.nvidia.com/content/nvidiaGDC/us/en_US/training/instructor-led-workshops/natural-language-processing/
+https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/
+https://www.nvidia.com/en-us/training/instructor-led-workshops/intelligent-recommender-systems/
+https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-accelerated-computing-with-cuda/
